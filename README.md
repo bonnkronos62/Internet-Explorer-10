@@ -216,4 +216,4 @@ Internet Explorer 10 is offered as a full free version, with all features and up
 Take your browsing experience to the next level! Download Internet Explorer 10 today and enjoy a safer, faster, and more intuitive web experience.
 
 ---
-**Last updated:** 2026-09-15 20:36:03 UTC
+**Last updated:** 2026-09-15 23:16:57 UTC
